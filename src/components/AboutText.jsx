@@ -12,7 +12,7 @@ function AboutText() {
     Started in 2020, just as COVID hit us, we have been busy since by
     redefining how the Plan-to-Strategy process can be rewired. We have
     exceptional talent and are experienced in procurement &amp; supply
-    chain, software development, product development, and AI/ML; and it's
+    chain, software development, product development, and AI/ML; and it&apos;s
     only by combining all this talent that we are able to drive Mithra-AI.
   </p>
 </section>
